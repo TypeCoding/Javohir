@@ -1,2 +1,2 @@
-# Javohir
-My first repository
+# Type Coder
+Professional Repository
